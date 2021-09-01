@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/ExpenseTracker/.vs/ExpenseTracker/v16
+/ExpenseTracker/ExpenseTracker/obj
